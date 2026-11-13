@@ -1,0 +1,8 @@
+{
+  "name": "Wee-It 2026",
+  "description": "Wee-It 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
